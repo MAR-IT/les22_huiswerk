@@ -14,6 +14,10 @@ img {
 .col {
   background-color: lightgrey;
 }
+.header {
+  background-color: lightblue;
+  margin-top: 15px;
+}
 .kop {
   font-weight: bold;
   background-color: silver;
